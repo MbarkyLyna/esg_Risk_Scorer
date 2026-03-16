@@ -1,8 +1,10 @@
- # ESG Company Risk Scorer
+# ESG Company Risk Scorer
 
 An AI-powered ESG risk assessment tool for S&P 500 companies, designed to
 support credit risk evaluation workflows. Built with XGBoost and SHAP,
 deployed as an interactive Streamlit dashboard.
+
+Live demo: https://esgriskscorer-hxhcsqnyhlm5s6jkpe9k8e.streamlit.app
 
 ## What it does
 
@@ -64,4 +66,4 @@ streamlit run app.py
 
 ## Author
 
-Lyna Mbarky AI engineering student.
+Lyna Mbarky: AI engineering student.
