@@ -1,5 +1,3 @@
-﻿# esg_Risk_Scorer
-
  # ESG Company Risk Scorer
 
 An AI-powered ESG risk assessment tool for S&P 500 companies, designed to
