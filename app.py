@@ -217,7 +217,6 @@ import joblib
 import shap
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="ESG Risk Scorer", page_icon="🌱", layout="wide")
 
 @st.cache_resource
 def load_artifacts():
