@@ -207,7 +207,7 @@ if not df_f.empty:
     ct.dataframe(top10, use_container_width=True, hide_index=True)
 
 st.markdown("---")
-=======
+
 import streamlit as st
 import pandas as pd
 import numpy as np
