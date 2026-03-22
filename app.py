@@ -411,5 +411,4 @@ if not df_f.empty:
     ct.dataframe(top10, use_container_width=True, hide_index=True)
 
 st.markdown("---")
->>>>>>> 39f55f7bf385a32b821a9940825cada705986f93
 st.caption("Built with XGBoost + SHAP | Data: Yahoo Finance | ESG Risk Scorer v1.0")
